@@ -27,7 +27,7 @@ File headers must contain the license headers for the project. Use the licenseFo
 
 * Javadocs
     * Do not use @author
-    * Wrap additional paragraphs in <p> and </p>
+    * Wrap additional paragraphs in `<p>` and `</p>`
     * Capitalize the first letter in the descriptions within each “at clause”, i.e. @param name Player to affect, no periods
     
 * Open a pull request with your changes.
